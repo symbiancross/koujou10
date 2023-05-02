@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6d53e5ca-b6e1-4c08-aa98-32ea8281fb57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6d53e5ca-b6e1-4c08-aa98-32ea8281fb57</dc:identifier>
+        <dc:title>公女殿下の家庭教師10 千年の都 (富士見ファンタジア文庫)</dc:title>
+        <dc:creator opf:file-as="七野りく" opf:role="aut">七野りく</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-19T17:00:00+00:00</dc:date>
+        <dc:publisher>株式会社ＫＡＤＯＫＡＷＡ</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
